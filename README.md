@@ -16,3 +16,4 @@ To become a skilled software developer by learning, practising, and building pro
 ---
 
 *This repository marks the beginning of my coding journey.*
+Learning Git and GitHub through VS Code.
